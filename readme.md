@@ -18,3 +18,4 @@ CREATE TABLE alu(
     id INT PRIMARY KEY AUTO_INCREMENT,
         alunim VARCHAR(11) UNIQUE,
         alupassword VARCHAR(255));
+--tabelnya;
